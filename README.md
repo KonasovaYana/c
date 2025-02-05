@@ -15,7 +15,7 @@ coursework2: Работа с изображениями в C
 
 Необходимо перейти в нужную папку:
 
-cd coursework1  # или cd coursework2
+cd coursework_1  # или cd coursework_2
 
 Собрать проект:
 
