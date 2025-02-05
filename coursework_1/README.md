@@ -18,7 +18,7 @@
 - `actions_with_sentences.c/h` — обработка текста.  
 - `main_functions.c/h` — операции с предложениями.  
 - `structures_discribe.c/h` — реализация структур.  
-- `Makefile` — сборка проекта.  
+- `Makefile` — сборка программы.  
 
 ## Запуск  
 
